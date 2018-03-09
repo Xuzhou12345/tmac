@@ -1,0 +1,2 @@
+# tmac
+just studying 
